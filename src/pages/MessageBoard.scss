@@ -1,5 +1,8 @@
 .message-board {
     padding: 50px;
+    .title {
+        margin: 0px;
+    }
     .post-and-sort {
         display: flex;
         width: 100%;
